@@ -1,0 +1,16 @@
+0,1,2
+Tech_support,Tech,*
+Craft_repair,Tech,*
+Other_service,Other,*
+Sales,Other,*
+Exec_managerial,Managerial,*
+Prof_specialty,Other,*
+Handlers_cleaners,Manual,*
+Machine_op_inspct,Other,*
+Adm_clerical,Managerial,*
+Farming_fishing,Manual,*
+Transport_moving,Other,*
+Priv_house_serv,Manual,*
+Protective_serv,Armed,*
+Armed_Forces,Armed,*
+?,Other,*

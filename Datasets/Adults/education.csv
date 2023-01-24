@@ -1,0 +1,17 @@
+0,1,2
+Bachelors,College,*
+HS_grad,HS,*
+11th,HS,*
+Masters,University,*
+9th,HS,*
+Some_college,College,*
+Assoc_acdm,University,*
+Assoc_voc,University,*
+7th_8th,HS,*
+Doctorate,University,*
+Prof_school,Not_graduated,*
+5th_6th,Not_graduated,*
+10th,HS,*
+1st_4th,Not_graduated,*
+Preschool,Not_graduated,*
+12th,Not_graduated,*
